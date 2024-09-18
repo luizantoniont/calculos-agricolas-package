@@ -1,6 +1,5 @@
 # calculos
 
-Description. 
 O pacote é usado para:
 	- Cálculo da produtividade por área
 	- Cálculo da densidade de plantas
