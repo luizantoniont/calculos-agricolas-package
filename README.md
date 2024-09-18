@@ -1,27 +1,27 @@
-# package_name
+# calculos
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+O pacote é usado para:
+	- Cálculo da produtividade por área
+	- Cálculo da densidade de plantas
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install
 
 ```bash
-pip install package_name
+pip install calculos
 ```
 
 ## Usage
 
 ```python
-from package_name import file1_name
-file1_name.my_function()
+from calculos import produtividade
+produtividade.prod_agri()
 ```
 
 ## Author
-My_name
+Luiz
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
